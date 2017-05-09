@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jose Antonio\.android\build-cache\fee6f163e098f5595e11fa02540a01eb085afd88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\pre-dexed\debug\classes_75cec54c5f82ea75ab92565d09ff7d3925063366.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Antonio\.android\build-cache\fee6f163e098f5595e11fa02540a01eb085afd88\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75cec54c5f82ea75ab92565d09ff7d3925063366\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jose Antonio\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\pre-dexed\debug\gson-2.3.1_79079b87b0ebf30100cfd93ffc454523192f0ccc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Antonio\.android\build-cache\a8f714db10b93146672996f22259efe4738c4f68\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d15494b0fe175f6c52484c39742a598e75a3eac8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jose Antonio\.android\build-cache\a8f714db10b93146672996f22259efe4738c4f68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\pre-dexed\debug\classes_d15494b0fe175f6c52484c39742a598e75a3eac8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fd301af1a5fa5f7a30b0fa335dabf821db430ba6">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9ce2b353536461656115feb58c7b66c572a0e2ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Antonio\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_2eea5b0f33317867b7383e6f877214b69d577777\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jose Antonio\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_2eea5b0f33317867b7383e6f877214b69d577777.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Antonio\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_d49364a9366c0fc9710f536ba4a150bbdc097f3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jose Antonio\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_d49364a9366c0fc9710f536ba4a150bbdc097f3a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_239bf808dba63887d50c798336b1ac6865e92614\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Antonio\.android\build-cache\19d752dff86c7231829b80e8d8a48e548393ab3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85d1216e0e6a06392642afc7ef1a7185a3fde053\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jose Antonio\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta2_2b6d18955b1f177404c4314459eba092b8ca6b06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jose Antonio\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_4fc9b1d5ef1b06e1ee5b9543ebc388f6651a2e34.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Antonio\.android\build-cache\fee6f163e098f5595e11fa02540a01eb085afd88\output\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_84033033b25bef81eb5ab343890df760adb919b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Antonio\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_e3a5383908bd963042d4fd16557a18e18297d417\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jose Antonio\.android\build-cache\19d752dff86c7231829b80e8d8a48e548393ab3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\pre-dexed\debug\classes_85d1216e0e6a06392642afc7ef1a7185a3fde053.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Antonio\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0-beta2_2b6d18955b1f177404c4314459eba092b8ca6b06\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jose Antonio\.android\build-cache\fee6f163e098f5595e11fa02540a01eb085afd88\output\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_84033033b25bef81eb5ab343890df760adb919b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jose Antonio\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\pre-dexed\debug\okio-1.9.0_e3a5383908bd963042d4fd16557a18e18297d417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_094d634603cfbcbfa7291b5e459ff765ff06345b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Antonio\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_79079b87b0ebf30100cfd93ffc454523192f0ccc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Antonio\.android\build-cache\fe9f63221304cc67ecacc35673eda9e8197e6afe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2c4dff1da6d77bfdb2742952b8208121165d876\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Antonio\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0-beta2_34aeeb774ad66cbab7ffcf13b498c856bc34a4a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jose Antonio\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_4fc9b1d5ef1b06e1ee5b9543ebc388f6651a2e34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_094d634603cfbcbfa7291b5e459ff765ff06345b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jose Antonio\.android\build-cache\fe9f63221304cc67ecacc35673eda9e8197e6afe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\pre-dexed\debug\classes_e2c4dff1da6d77bfdb2742952b8208121165d876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jose Antonio\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="C:\Users\Jose Antonio\Desktop\mio\ejemplos android\my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta2_34aeeb774ad66cbab7ffcf13b498c856bc34a4a6.jar" />
+    </item>
+
+</items>

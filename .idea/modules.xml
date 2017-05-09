@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8.iml" filepath="$PROJECT_DIR$/my_retrofit-master-145e6539584d0b35e73d2230cfc10eaf17f4aee8.iml" />
+    </modules>
+  </component>
+</project>
